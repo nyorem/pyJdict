@@ -1,6 +1,6 @@
 <h1>how to install the dictionary:</h1>
 
-this project uses python 2.7.x
+this project uses python 2.7.x. you will also need python-romkan librarie.
 
 first you need to download the dictionary file here:
 
@@ -36,3 +36,7 @@ if there are too many results you can run ```$python dict.py word | more``` inst
 - [ ] example sentences
 - [ ] smart result search
 - [ ] GUI mode
+
+<h1>License</h1>
+
+<a href="https://raw.github.com/soimort/python-romkan/master/LICENSE">python-romkan license</a>
