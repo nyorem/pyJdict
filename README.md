@@ -1,4 +1,6 @@
-how to install the dictionary:
+<h1>how to install the dictionary:</h1>
+
+this project uses python 2.7.x
 
 first you need to download the dictionary file here:
 
@@ -12,23 +14,25 @@ https://www.dropbox.com/s/wm8xp5xvo5si463/jdict.sqlite
 
 you can now use dict.py
 
-how to use dict.py:
+<h1>how to use dict.py:</h1>
 
 $python dict.py word
 
 the dictionary will first search japanese word (kanji + kana), then reading (only kana), then romaji and finaly english
 
-for example all these search are valid :
-
+for example all of these are valid :
+```
 $python dict.py 探す
-
 $python dict.py さがす
-
 $python dict.py sagasu
-
 $python dict.py "to search"
-
+```
 
 note that results are sorted by alphabetical order.
-if there are too many results you can run "$python dict.py word | more" instead to produce a more readable ouput
+if there are too many results you can run ```$python dict.py word | more``` instead to produce a more readable ouput
 
+<h1>TODO list</h1>
+
+- [ ] example sentences
+- [ ] smart result search
+- [ ] GUI mode
