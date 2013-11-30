@@ -21,9 +21,13 @@ the dictionary will first search japanese word (kanji + kana), then reading (onl
 for example all these search are valid :
 
 $python dict.py 探す
+
 $python dict.py さがす
+
 $python dict.py sagasu
+
 $python dict.py "to search"
+
 
 note that results are sorted by alphabetical order.
 if there are too many results you can run "$python dict.py word | more" instead to produce a more readable ouput
