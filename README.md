@@ -1,6 +1,6 @@
 <h1>how to install the dictionary:</h1>
 
-this project uses python 2.7.x. you will also need python-romkan librarie.
+this project uses python 2.7.x. you will also need python-romkan library.
 
 first you need to download the dictionary file here:
 
