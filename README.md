@@ -1,6 +1,11 @@
 <h1>how to install the dictionary:</h1>
 
 this project uses python 2.7.x. you will also need python-romkan library.
+```
+virtualenv venv --python=python2
+source venv/bin/activate
+pip install -r requirements.txt
+```
 
 first you need to download the dictionary file here:
 

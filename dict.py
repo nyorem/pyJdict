@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!venv/bin/python
 # -*- coding: utf-8 -*-
 
 import sqlite3
